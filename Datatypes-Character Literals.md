@@ -18,3 +18,6 @@ print('a')
 
 
 ## Result
+
+
+Thus, the Python program successfully prints the given characters using character literals.
