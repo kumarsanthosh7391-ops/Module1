@@ -24,3 +24,4 @@ else:
 
 
 ## Result
+Thus, the given Python program determines whether a number is EVEN or ODD correctly.
