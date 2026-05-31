@@ -35,3 +35,5 @@ print("d:", d)
 
 
 ## Result
+
+Thus, the Python program evaluates the given boolean and arithmetic expressions correctly and displays the results.
